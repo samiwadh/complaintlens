@@ -1,0 +1,15 @@
+# Python 3.10 or 3.11 recommended (gensim wheels are not yet available for every newer version)
+numpy==1.26.4
+scipy==1.13.1
+pandas==2.2.3
+scikit-learn==1.5.2
+gensim==4.3.3
+nltk==3.9.1
+matplotlib==3.9.2
+pyyaml==6.0.2
+tqdm==4.67.1
+sentence-transformers==3.3.1
+transformers==4.46.3
+torch>=2.2            # CPU is fine; install the CUDA build from pytorch.org if you have a GPU
+jupyterlab==4.2.5
+ipykernel==6.29.5
