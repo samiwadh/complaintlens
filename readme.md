@@ -1,7 +1,7 @@
 # ComplaintLens: Routing and Theme Discovery in Consumer Finance Complaints
 
 Text Mining & Search project, University of Milano-Bicocca, A.Y. 2026/27
-Team: Abdul Sami (data, pre-processing, Task 1), Fatima (Task 2) · Instructors: Prof. Marco Viviani, Stefano Molari
+Team: Abdul Sami (data, pre-processing, Task 1), Fatemeh Baghchei (Task 2) · Instructors: Prof. Marco Viviani, Stefano Molari
 
 Using real complaints from the US Consumer Financial Protection Bureau (CFPB), we address two text-mining tasks:
 
